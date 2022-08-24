@@ -1,0 +1,4 @@
+{
+    "webhook_url":"Your Webhook URL",
+    "script_path":"$HOME/.discord_send_file"
+}
