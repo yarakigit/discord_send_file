@@ -13,7 +13,7 @@
       - [discord.sh](https://github.com/ChaoticWeg/discord.sh)を使用
         - zshだと`shopt`コマンドが使えなかったので該当箇所をコメントアウトした 
         ~~~zsh
-        $ git clone "" ~/.discord_send_file
+        $ git clone https://github.com/yarakigit/discord_send_file.git ~/.discord_send_file
         ~~~
     - ファイルを送りたいDicordのチャンネルの`Webhook URL`を取得, `settings.json`の`webhook_url`の欄に記載する
       - スクリプトを任意のディレクトリに配置する際は`script_path`も変更 
